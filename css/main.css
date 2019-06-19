@@ -1,0 +1,64 @@
+body {
+  background-color: steelblue;
+  overflow-x: hidden;
+}
+
+.container>.row {
+  margin-top:75px;
+}
+
+.card {
+  padding: 5%;
+  margin-top: 25px;
+}
+
+.card-img {
+  display: block;
+  margin: 25px auto;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card-title {
+  font-size: 130%;
+  font-weight: bold;
+}
+
+.card-subtitle {
+  font-size: 90%;
+  font-style: italic;
+}
+
+.card-text>p {
+  text-align: justify;
+  padding: 15px 0px;
+}
+
+.btn {
+  display: block;
+  width: 80%;
+  margin: 15px auto;
+}
+
+.description {
+  margin: 30% auto;
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 25px;
+  border-radius: 25px;
+}
+
+.center-img {
+  display: block;
+  margin: 25px auto;
+  width: 85%;
+}
+
+footer {
+  margin-top: 100px;
+  padding: 15px;
+  background-color: #343a40!important;
+}
+
+footer p {
+  color: rgba(255, 255, 255, 0.5);
+}
