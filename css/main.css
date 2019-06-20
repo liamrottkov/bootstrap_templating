@@ -51,6 +51,7 @@ body {
   display: block;
   margin: 25px auto;
   width: 85%;
+  border-radius: 25px;
 }
 
 footer {
@@ -62,3 +63,6 @@ footer {
 footer p {
   color: rgba(255, 255, 255, 0.5);
 }
+ .author {
+   text-align: right;
+ }
