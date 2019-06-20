@@ -66,3 +66,20 @@ footer p {
  .author {
    text-align: right;
  }
+
+ label {
+   display: block;
+   font-weight: bold;
+   margin-top: 15px;
+ }
+
+ input {
+   display: block;
+   margin-top: 15px;
+ }
+
+ textarea {
+   resize: both;
+   max-width: 100%;
+   min-width: 20%;
+ }
